@@ -17,7 +17,7 @@
 
 No installation is required! This application is portable.
 
-1.  Download the **`Insta Downloader.exe`** file.
+1.  Download the folder then click **`run_app.bat`** file.
 2.  Place it in any folder on your computer.
 3.  Double-click to run.
 
